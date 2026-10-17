@@ -1,0 +1,28 @@
+site_name: "Multi-Axis Machining Shop Record"
+site_url: https://bnb-manufacturing-reference.readthedocs.io/
+site_description: "Multi-Axis Machining Shop Record: preserved shop record index."
+site_author: "BNB Manufacturing Archive"
+copyright: "Preserved shop record index."
+
+docs_dir: docs
+
+theme:
+  name: material
+  features:
+    - navigation.top
+  palette:
+    - scheme: default
+      primary: indigo
+
+nav:
+  - Reference: index.md
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+extra:
+  generator: false
