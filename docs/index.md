@@ -42,3 +42,12 @@ Preserved shop record for bnbmfgco.com. The former plant is not quoting from thi
 | 4 | [Aerospace Precision Components](https://bnbmfgco.com/articles/aerospace-precision-components.html) | aerospace precision components |
 
 See the full index at [bnbmfgco.com](https://bnbmfgco.com/).
+
+Service pages maintained with this archive
+================================
+
+The reference notes above support the production work documented on the shop's own service pages:
+
+* `5 Axis CNC Machining — Specification Guide <https://https://bnbmfgco.com/services/five-axis-cnc-machining.html>`_ — How a 5-axis CNC machining job is scoped: simultaneous vs. 3+2 features, fixture access, tool reach, collision checks, and tolerance stack on contours.
+* `Inconel Machining — Specification Guide <https://https://bnbmfgco.com/services/inconel-machining.html>`_ — How Inconel is machined: work hardening, continuous cuts, low speeds with heavy feeds, edge heat, coolant strategy, and inspection for surface integrity.
+* `Titanium Machining Service — Specification Guide <https://https://bnbmfgco.com/services/titanium-machining-service.html>`_ — Titanium machining guide: alpha-beta alloy behavior, chatter and thin-wall deflection, heat and tool wear, contamination control, fire risk, and coolant ch
